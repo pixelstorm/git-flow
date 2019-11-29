@@ -2,7 +2,7 @@
   - master(deployed to production) and 
   - staging (deployed to staging).
 
-## Deploying features and bugfixes to staging:
+## Deploying features and bugfixes to remote staging repo / site:
  1. Pull from remote staging repo
  1. Checkout the feature "feature/my_feature" or "bug/my_bug" from local staging
  1. Dev and test locally
@@ -11,7 +11,7 @@
  1. Test on staging site
  1. Notify QA with link to staging url
  
-## Deploying live:
+## Deploying to master repo / site:
  if your feature or bug has been approved.
  1. notify QA deploy to production is about to begin.
  1. local checkout master
