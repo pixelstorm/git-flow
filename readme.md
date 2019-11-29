@@ -2,7 +2,7 @@
   - master(deployed to production) and 
   - staging (deployed to staging).
 
-## When working on a feature or bug fix:
+## Deploying features and bugfixes to staging:
  1. Pull from remote staging repo
  1. Checkout the feature "feature/my_feature" or "bug/my_bug" from local staging
  1. Dev and test locally
