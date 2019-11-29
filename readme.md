@@ -6,7 +6,7 @@
  1. Pull from remote staging repo
  1. Checkout the feature "feature/my_feature" or "bug/my_bug" from local staging
  1. Dev and test locally
- 1. Merge into staging locally
+ 1. Merge feature or bug branch into local staging repo
  1. Deploy to remote staging repo (which is set to auto deploy through beanstalk to staging site)
  1. Test on staging site
  1. Notify QA with link to staging url
