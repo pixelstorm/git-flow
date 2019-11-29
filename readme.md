@@ -1,6 +1,6 @@
 ## Repos have two main branches: 
-  - master(deployed to production) and 
-  - staging (deployed to staging).
+  - Master(deployed to production) and 
+  - Staging (deployed to staging).
 
 ## Deploying features and bugfixes to remote staging repo / site:
  1. Pull from remote staging repo
@@ -12,11 +12,11 @@
  1. Notify QA with link to staging url
  
 ## Deploying to master repo / site:
- if your feature or bug has been approved.
- 1. notify QA deploy to production is about to begin.
- 1. local checkout master
- 1. pull from remote master repo
- 1. merge local staging into master
- 1. push to master repo (set to manual deploy through beanstalk).
- 1. if push is successful then do manual deply
- 1. notify QA with link to production url
+ if your feature or bug has been approved on the staging site.
+ 1. Notify QA deploy to production is about to begin.
+ 1. Local checkout master
+ 1. Pull from remote master repo
+ 1. Merge local staging into master
+ 1. Push to master repo (set to manual deploy through beanstalk).
+ 1. If push is successful then do manual deply
+ 1. Notify QA with link to production url
