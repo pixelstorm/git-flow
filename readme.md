@@ -1,4 +1,4 @@
-## Repos have one branche: 
+## Repos have one master branch: 
   - Master(deployed to staging + production sites) 
 
 ## Deploying features and bugfixes to Staging:
