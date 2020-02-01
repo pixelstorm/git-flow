@@ -4,7 +4,7 @@
 ## Deploying features and bugfixes to Staging site:
  1. Pull from master repo
  1. If you want create a local feature branch.
- 1. Dev and test locally
+ 1. Dev and test locally (Do your own QA locally)
  1. Merge feature or bug branch into local master repo
  1. Deploy to remote master repo (which is set to auto deploy through beanstalk to staging site)
  1. Test on staging site
