@@ -1,7 +1,7 @@
 ## Repos have one branche: 
   - Master(deployed to staging + production sites) 
 
-## Deploying features and bugfixes to remote staging repo / site:
+## Deploying features and bugfixes to Staging:
  1. Pull from master repo
  1. If you want create a local feature branch.
  1. Dev and test locally
@@ -10,7 +10,7 @@
  1. Test on staging site
  1. Notify QA with link to staging url
  
-## Deploying to master repo / site:
+## Deploying to Production site:
  if your feature or bug has been approved on the staging site.
  1. Notify QA deploy to production is about to begin on "live deployments" slack channel.
  1. In beanstalk do a manaul deploy to live site.
