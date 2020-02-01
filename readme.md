@@ -1,7 +1,7 @@
 ## Repos have one master branch: 
   - Master(deployed to staging + production sites) 
 
-## Deploying features and bugfixes to Staging:
+## Deploying features and bugfixes to Staging site:
  1. Pull from master repo
  1. If you want create a local feature branch.
  1. Dev and test locally
