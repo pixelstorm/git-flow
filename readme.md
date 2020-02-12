@@ -6,6 +6,7 @@
  1. If you want create a local feature branch.
  1. Dev and test locally (Do your own QA locally)
  1. Merge feature or bug branch into local master repo
+ 1. commit msg - use the asana task name or similar
  1. Deploy to remote master repo (which is set to auto deploy through beanstalk to staging site)
  1. Test on staging site
  1. Notify QA with link to staging url
