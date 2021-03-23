@@ -1,3 +1,5 @@
+Firstly, commit regualary. Every commit is its own "solution to a self contained problem". In your commit message, simply explain the problem that you fixed.
+
 ## Repos have one master branch: 
   - Master(deployed to staging + production sites) 
 
